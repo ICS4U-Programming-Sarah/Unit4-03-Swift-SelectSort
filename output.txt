@@ -1,0 +1,10 @@
+Invalid input: '' is not a valid integer
+The sorted array is:  [3, 5, 8, 17, 19, 47]
+Invalid input: 'Trees' is not a valid integer
+The sorted array is:  []
+No integers found on line.
+The sorted array is:  [-7, 1, 3, 4, 8]
+Invalid input: '' is not a valid integer
+The sorted array is:  [6, 7, 8]
+No integers found on line.
+The sorted array is:  [16, 27, 35, 45, 46, 67, 90, 489, 1739]
